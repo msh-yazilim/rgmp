@@ -17,7 +17,6 @@ Programın stdin girişine, Ödeme Kayıt Cihazı(ÖKC) den gelen mesajı besley
 Kaynak kodları ticari bir faaliyet için kullanacaksanız, 
 
 firmamız ile aşağıda belirtilen mail adresi ile iletişime geçebilirsiniz, 
-harmankaya [at] mshyazilim.com
 
 <link>https://mshyazilim.com</link>
 
